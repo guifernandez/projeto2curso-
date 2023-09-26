@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+#header {
+  margin: 65px auto 100px;
+
+  width: 1005.79px;
+  display: flex;
+  justify-content: space-between;
+}
+#bottons {
+  display: flex;
+  gap: 80px;
+}
+.botao {
+  font-family: "Mulish", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #1f1534;
+  text-decoration: none;
+}
+#outro a {
+  font-family: "Mulish", sans-serif;
+  font-weight: 700;
+  color: #1f1534;
+}
+
+#hero {
+  width: 1008px;
+
+  margin: 146px auto 140px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+#divherotexto {
+  width: 489px;
+  margin-top: 100px;
+  margin-left: 0;
+  height: 112px;
+}
+#divherotexto h1 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  font-size: 49px;
+  line-height: 56px;
+}
+
+#divherotexto span {
+  font-weight: 700;
+  color: #89c5cc;
+}
+#divherotexto p {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  color: #7d7987;
+  line-height: 28px;
+}
+#divherotexto p span {
+  font-weight: 700;
+}
+#zap {
+  background-color: #69b99d;
+  width: 182px;
+  display: flex;
+  justify-content: space-evenly;
+  height: 56px;
+  align-items: center;
+
+  border-radius: 5px;
+}
+#zap p {
+  color: white;
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+}
+#zapimagem {
+  width: 24px;
+  height: 24px;
+}
+
+#footer {
+  text-align: center;
+  margin-bottom: 30px;
+}
